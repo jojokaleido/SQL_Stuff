@@ -10,6 +10,9 @@ Counter automatically increases by 1 with each new imput ie: 1,2,3,...
 VARCHAR(20)
 stands for "varying width character" used to define a string variable with unknown variable length
 
+NVARCHAR(20)
+Similar to VARCHAR(20) but can also allow unique characters from other languages.
+
 Variable NULL
 When declaring a variable, NULL states that there may be an empty value.
 
