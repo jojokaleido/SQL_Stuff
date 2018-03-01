@@ -1,0 +1,24 @@
+Definitions to common functions & commands.
+
+
+CREATE TABLE
+Need to specify table name and column specifications (data type)
+
+PRIMARY KEY 
+Counter automatically increases by 1 with each new imput ie: 1,2,3,...
+
+VARCHAR(20)
+stands for "varying width character" used to define a string variable with unknown variable length
+
+Variable NULL
+When declaring a variable, NULL states that there may be an empty value.
+
+ALTER TABLE
+Add or remove columns, constraints, keys.
+
+DROP TABLE
+Used to permanently delete the entire table from the database. 
+
+DELETE TABLE
+Used to get rid of specific data in a table. 
+
